@@ -1,6 +1,6 @@
 # Real-Time-Bus-Tracker:
 
-   * This is an API driven map output that tracks public buses that are currently travelling route #1 in Boston, MA
+   * This is an API driven map output that tracks public buses that are currently travelling a route in Boston, MA
 
 # How to run:
 
@@ -11,7 +11,7 @@
 
    * Adding multiple buses to track at once
    * Pause and stop button
-   * More user directed in picking bus tracker
+   * More user directed in picking where to track a bus
 
 # License:
 
